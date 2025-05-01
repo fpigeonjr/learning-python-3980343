@@ -1,9 +1,9 @@
 {
     "editor.bracketPairColorization.enabled": true,
     "editor.cursorBlinking": "solid",
-    "editor.fontFamily": "ui-monospace, Menlo, Monaco, 'Cascadia Mono', 'Segoe UI Mono', 'Roboto Mono', 'Oxygen Mono', 'Ubuntu Monospace', 'Source Code Pro', 'Fira Mono', 'Droid Sans Mono', 'Courier New', monospace",
+    // "editor.fontFamily": "ui-monospace, Menlo, Monaco, 'Cascadia Mono', 'Segoe UI Mono', 'Roboto Mono', 'Oxygen Mono', 'Ubuntu Monospace', 'Source Code Pro', 'Fira Mono', 'Droid Sans Mono', 'Courier New', monospace",
     "editor.fontLigatures": false,
-    "editor.fontSize": 22,
+    "editor.fontSize": 12.5,
     "editor.formatOnPaste": true,
     "editor.formatOnSave": true,
     "editor.lineNumbers": "on",
@@ -15,9 +15,11 @@
     "emmet.triggerExpansionOnTab": true,
     "explorer.openEditors.visible": 0,
     "files.autoSave": "afterDelay",
-    "screencastMode.onlyKeyboardShortcuts": true,
-    "terminal.integrated.fontSize": 18,
-    "workbench.colorTheme": "Visual Studio Light",
-    "workbench.fontAliasing": "antialiased",
-    "workbench.statusBar.visible": true
+    // "screencastMode.onlyKeyboardShortcuts": true,
+    // "terminal.integrated.fontSize": 18,
+    // "workbench.colorTheme": "Visual Studio Light",
+    // "workbench.fontAliasing": "antialiased",
+    // "workbench.statusBar.visible": true
+    // turn off copilot suggestsions 
+    "editor.inlineSuggest.enabled": false,
 }
